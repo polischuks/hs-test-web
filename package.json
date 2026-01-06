@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/callsite": "^1.0.32",
     "callsite": "^1.0.0",
-    "puppeteer": "21.0.0",
+    "puppeteer": "24.34.0",
     "puppeteer-element2selector": "0.0.3"
   },
   "devDependencies": {
@@ -29,14 +29,14 @@
     "css-loader": "^6.8.1",
     "eslint": "^8.48.0",
     "file-loader": ">=6.0.0",
-    "mocha": "10.1.0",
+    "mocha": "10.8.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "style-loader": "^3.3.3",
     "ts-node": "^10.4.0",
     "typescript": "^5.2.2",
-    "webpack": "^5.88.2",
+    "webpack": "^5.104.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^5.2.2"
   }
 }
